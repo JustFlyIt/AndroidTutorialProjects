@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">RecyclerViewDemo</string>
+
+    <string-array name="programming_languages">
+        <item>CSS3</item>
+        <item>HTML5</item>
+        <item>Java</item>
+        <item>Javascript</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>SSH</item>
+        <item>Swift</item>
+        <item>TypeScript</item>
+        <item>VisualStudio</item>
+    </string-array >
+    
+    <string-array name="descriptions">
+        <item>This is a demo description.</item>
+        <item>This is a demo description.</item>
+        <item>This is a demo description.</item>
+        <item>This is a demo description.</item>
+        <item>This is a demo description.</item>
+        <item>This is a demo description.</item>
+        <item>This is a demo description.</item>
+        <item>This is a demo description.</item>
+        <item>This is a demo description.</item>
+        <item>This is a demo description.</item>
+    </string-array>
+
+
 </resources>
